@@ -1,3 +1,2 @@
 # kisisel-web-site-deneme
-Live
-http://furkanyilmaz.great-site.net/
+<a link="http://furkanyilmaz.great-site.net/" alt=Live>
